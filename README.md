@@ -48,14 +48,7 @@ Asumsi file utama bernama `all_data.csv`.
 
 ## 🛠️ Instalasi & Menjalankan Dashboard
 
-### 1. **Clone repositori ini** (atau salin file ke folder lokal):
-```bash
-git clone https://github.com/username/nama-repo-kamu.git
-cd nama-folder
-```
-
-
-**Buka folder proyek di lokal**
+### 1. **Buka folder proyek di lokal**
 
 Pindahkan semua file proyek (termasuk `Dashboard.py` dan `all_data.csv`) ke dalam satu folder.
 
@@ -76,7 +69,7 @@ pip install -r requirements.txt
 
 atau install manual
 ```bash
-pip install streamlit pandas matplotlib seaborn babel mplcursors
+pip install streamlit pandas matplotlib seaborn babel
 ```
 
 ### 5. **Jalankan Dashboard**
