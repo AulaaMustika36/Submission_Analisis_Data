@@ -1,1 +1,1 @@
-https://submission-dashboard-aulaa.streamlit.app/ 
+https://aulaa-dashboard-submission.streamlit.app/ 
